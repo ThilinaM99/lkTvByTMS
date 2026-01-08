@@ -32,7 +32,7 @@ Use this **RAW M3U link** in your IPTV app:
 - Media → Open Network Stream
 - Paste RAW link → Play
 
----
+https://raw.githubusercontent.com/ThilinaM99/LK-iptv-playlist/main/sri-lanka.m3u
 
 ## 🔄 Auto Updates
 
