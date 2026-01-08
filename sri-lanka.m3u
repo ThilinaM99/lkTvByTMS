@@ -23,3 +23,13 @@ https://siyatha.rumex.lk/live/yToCCmhmNKkWaXku/576p.m3u8
 
 #EXTINF:-1 tvg-name="Swarnawahini" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/006-Swarnawahini_0.jpg" group-title="Sri Lanka",Swarnawahini
 https://swarnavahini.rumex.lk/live/OplTHNHgJtgwGPen/576p.m3u8
+
+#EXTINF:-1 tvg-name="Swarnavahini HD" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/006-Swarnawahini_0.jpg" group-title="Sri Lanka",Swarnavahini HD
+https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NDTV Lanka Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/NDTV_Lanka_Logo.png" group-title="Sri Lanka",NDTV Lanka Full HD
+https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Asia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Asia_TV_Logo.png" group-title="Sri Lanka",Asia TV
+https://stream.asiatvnet.com/1/live/master.m3u8
+
