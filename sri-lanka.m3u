@@ -1,25 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Sri Lanka",Event TV
-https://event-tv.rumex.lk//live/YvUfMAiYuYLxcovY/576p.m3u8
+#EXTINF:-1 tvg-name="Sirasa TV" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/306-Sirasa%20TV%20HD.jpg" group-title="Sri Lanka",Sirasa TV
+https://sirasa.rumex.lk//live/JlKbHLMYvvEFYvlu/576p.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka",Derana TV
-https://derana.rumex.lk/live/csdmTtJnkCwvXgod/576p.m3u8
-
-#EXTINF:-1 group-title="Sri Lanka",Siyatha TV
-https://siyatha.rumex.lk/live/yToCCmhmNKkWaXku/576p.m3u8
-
-#EXTINF:-1 group-title="Sri Lanka",Charana TV
-https://charana.rumex.lk//live/koGURgmHSgCxLVmU/576p.m3u8
-
-#EXTINF:-1 group-title="Sri Lanka",ITN
-https://itn.rumex.lk/live/fgJBeMeotXpvORaE/576p.m3u8
-
-#EXTINF:-1 group-title="Sri Lanka",Rupavahini
+#EXTINF:-1 tvg-name="Rupavahini" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/301-Rupavahini%20HD_0.jpg" group-title="Sri Lanka",Rupavahini
 https://rupavahini.rumex.lk/live/OpgmxjyZGoUQXJgO/576p.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka",Swarnavahini
-https://swarnavahini.rumex.lk/live/OplTHNHgJtgwGPen/576p.m3u8
+#EXTINF:-1 tvg-name="ITN" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/303-ITNHD.jpg" group-title="Sri Lanka",ITN
+https://itn.rumex.lk/live/fgJBeMeotXpvORaE/576p.m3u8
 
-#EXTINF:-1 group-title="Sri Lanka",Hiru TV
+#EXTINF:-1 tvg-name="Event TV Xtra" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/220-EventTVXtra.jpg" group-title="Sri Lanka",Event TV Xtra
+https://event-tv.rumex.lk//live/YvUfMAiYuYLxcovY/576p.m3u8
+
+#EXTINF:-1 tvg-name="Hiru TV" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/307-HiruTVHD.jpg" group-title="Sri Lanka",Hiru TV
 https://hiru.rumex.lk/live/IlJLKjhQejHywYze/576p.m3u8
+
+#EXTINF:-1 tvg-name="Charana TV" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/005-CHARANATV_0.jpg" group-title="Sri Lanka",Charana TV
+https://charana.rumex.lk//live/koGURgmHSgCxLVmU/576p.m3u8
+
+#EXTINF:-1 tvg-name="Siyatha TV" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/145-SiyathaTVHD_0.jpg" group-title="Sri Lanka",Siyatha TV
+https://siyatha.rumex.lk/live/yToCCmhmNKkWaXku/576p.m3u8
+
+#EXTINF:-1 tvg-name="Swarnawahini" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/006-Swarnawahini_0.jpg" group-title="Sri Lanka",Swarnawahini
+https://swarnavahini.rumex.lk/live/OplTHNHgJtgwGPen/576p.m3u8
