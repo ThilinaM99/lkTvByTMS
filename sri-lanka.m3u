@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Sri Lanka",Event TV
+https://event-tv.rumex.lk//live/YvUfMAiYuYLxcovY/576p.m3u8
+
+#EXTINF:-1 group-title="Sri Lanka",Derana TV
+https://derana.rumex.lk/live/csdmTtJnkCwvXgod/576p.m3u8
+
+#EXTINF:-1 group-title="Sri Lanka",Siyatha TV
+https://siyatha.rumex.lk/live/yToCCmhmNKkWaXku/576p.m3u8
+
+#EXTINF:-1 group-title="Sri Lanka",Charana TV
+https://charana.rumex.lk//live/koGURgmHSgCxLVmU/576p.m3u8
+
+#EXTINF:-1 group-title="Sri Lanka",ITN
+https://itn.rumex.lk/live/fgJBeMeotXpvORaE/576p.m3u8
+
+#EXTINF:-1 group-title="Sri Lanka",Rupavahini
+https://rupavahini.rumex.lk/live/OpgmxjyZGoUQXJgO/576p.m3u8
+
+#EXTINF:-1 group-title="Sri Lanka",Swarnavahini
+https://swarnavahini.rumex.lk/live/OplTHNHgJtgwGPen/576p.m3u8
+
+#EXTINF:-1 group-title="Sri Lanka",Hiru TV
+https://hiru.rumex.lk/live/IlJLKjhQejHywYze/576p.m3u8
