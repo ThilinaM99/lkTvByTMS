@@ -83,3 +83,12 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 #EXTINF:-1 tvg-name="Colors Super" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/104.png" group-title="Entertainment",Colors Super (1080p)
 http://103.140.254.2:3500/live/785.m3u8
+
+#EXTINF:-1 tvg-name="Newflix" tvg-logo="https://www.newflix.net/assets/images/logo_icon/logo.png" group-title="Movies",Newflix
+https://newfhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="AMC+" tvg-logo="https://images.amcnetworks.com/amcplus.com/wp-content/uploads/2020/08/amclogo@2x.png" group-title="Movies",AMC+
+https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Sony Movies" tvg-logo="https://www.sonymovies.com/sites/sonymovies/themes/custom/sonymovies/logo.png" group-title="Movies",Sony Movies
+https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
