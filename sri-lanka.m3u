@@ -118,4 +118,87 @@ https://amc-anime-x-hidive-1-us.tablo.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-name="TCL Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_of_the_TCL_Corporation.svg/250px-Logo_of_the_TCL_Corporation.svg.png" group-title="Anime",TCL Anime
 https://d3f4oii5n0oeqi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_tcl-ams-aws/27199a92-17b2-4f28-a1a4-16ec3b0e40d8/5.m3u8
 
+#######################
+# Indian / Bollywood
+#######################
+
+#EXTINF:-1 tvg-name="Zee Bollyworld" group-title="Indian",Zee Bollyworld
+https://stream.ads.ottera.tv/cl/260110d5gudpvp4qnlh72a64dg/1280x720_2300000_0_f.m3u8
+
+#EXTINF:-1 tvg-name="Sony TV HD" group-title="Indian",Sony TV HD
+https://nxtlive.net/sliv/stream.m3u8?live=215218dc50b20e9ce79d8642721f2e2b6cf8e2f25b4033ab389a34ca296c3f2669bc6c4bcb492fb00d7dc4b3fb952a8540f7f2ff384abb3d8f3f8acbd3a11383265fb5f83a30f430457212ba45e046b9f75e419413416e21de57d82a8b29e04f203e1aa58a4acf3948483c7600466c6c8772051cf35306041dd3be6c6d1a828987e679a7156578f3332ea784d86157ab6ee5bb72f37270a2bb8e5f43cc478feb7f9b6f7cfee93922f8d9bb3ed5a6d0131ad2cf36300d373a0bc2d9bc48fefd699b2134524360c3461cbf34ef20a8e6c3fa2e23cccc797391f222acdfa6a6d399ef79a71ca1ae1fac7c7ad52b2a59db653f635d670f0b8771a65e8d535e73ccb99008e14f61e9ef21cf01584b97decd178c20aafb2532c22c34401c72362ccb404a40a95ad260761add34f2a0ce8fa585464f3419078aea76badd04f6916d29324b40153ff88420e57c9db0560df18882cf06810ae7f547848e60bff23a0b25be82804bc509c9443c92d55db8e10c005d
+
+#EXTINF:-1 tvg-name="Sony Max HD" group-title="Indian",Sony Max HD
+https://nxtlive.net/sliv/stream.m3u8?live=215218dc50b20e9ce79d8642721f2e2b6cf8e2f25b4033ab389a34ca296c3f26e757ef6e64c49b63224a16dcaaa91a8b60812a8c7dd9754e8c3c45c5700e65397d3492e89dca0096cc57c8095fa86df7a6e3ee4527cff47134d7e408d0cd36ab249ed05c2648f792f86fe1d2fffa16d59f750cc5b1f242215612c3404eca40756e2345124400395d5c1e0019d4912c4ec581ec6b76f0c389f767a12f6055f0dcdb854e3344cd1099881f2a0adb7fe523ffb6e7a6080c8124dc2386edafb9eb557fa64c08df52f3bd03fc7e82694dcb09735cc0c512bf2813484613a907d654ef6211446590624250d3b24526f253791d59b6c7929b014e45574ec26e9f045e8280fa065c84c9d142b15e98a21ad5a2da49182a4f97cf8534c126d79067832c962287d44ec6776c8b872f2fc7d7bc98aba2d828d775a465251f8eabcf4967e35ae8d39189b99fb3216a0a2912c2d81eb16c12b5f5d3ff8861d53d0c3ab52e6d421189ad69c295c1ce7c4d8f7e3aea46fc
+
+#EXTINF:-1 tvg-name="Bollywood HD" group-title="Indian",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/b7df00d0-15bf-44f7-a254-a06344deccb8/0.m3u8
+
+
+#######################
+# Entertainment
+#######################
+
+#EXTINF:-1 tvg-name="Imai TV" group-title="Entertainment",Imai TV
+https://live20.bozztv.com/akamaissh101/ssh101/imaitv/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Danger TV" group-title="Entertainment",Danger TV
+https://d2e596wr2jmq0r.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-thh836k5h4fyb/2ecb63a8-fefc-455f-9268-1014d712ee9f/2.m3u8
+
+#EXTINF:-1 tvg-name="Wheel World" group-title="Auto",Wheel World
+https://cc-ii7599ywyixac.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ii7599ywyixac/e64ebdfe-4886-4261-b478-3c0c8874d721/0.m3u8
+
+
+#######################
+# Documentary / Nature
+#######################
+
+#EXTINF:-1 tvg-name="Adventure Earth" group-title="Documentary",Adventure Earth
+https://autentic-adventure-earth-1-au.lg.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Asia" group-title="Documentary",Discovery Asia
+https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8
+
+#EXTINF:-1 tvg-name="Love Nature 4K" group-title="Documentary",Love Nature 4K
+https://d2qmwprplnkhvr.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-k6dzbuqjplph1/27e833c7-b7e5-4a63-a0a1-1f8dff470257/4.m3u8
+
+#EXTINF:-1 tvg-name="Wild Planet" group-title="Documentary",Wild Planet
+https://d1h8whhtg5u7om.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/45729f3d-65d9-4490-adf2-994d7cfca9cb/3.m3u8
+
+#EXTINF:-1 tvg-name="Wild Flix" group-title="Documentary",Wild Flix
+https://cc-qgrxgp51645lw.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/467f4128-e7f7-4d29-ab9d-74743f25fcaa/0.m3u8
+
+#EXTINF:-1 tvg-name="BBC Earth HD" group-title="Documentary",BBC Earth HD
+https://csm-e-cetubilusordlive-85082641.csm.tubi.video/csm/live/749986858/4.m3u8
+
+#EXTINF:-1 tvg-name="Real Wild" group-title="Documentary",Real Wild
+https://amg00426-littledotstudio-realwild-tcl-fzsi1.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Xplore" group-title="Documentary",Xplore
+https://csm-e-cetubilusordlive-85082660.csm.tubi.video/csm/live/750561695/4.m3u8
+
+#EXTINF:-1 tvg-name="Wild Earth" group-title="Documentary",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+
+#EXTINF:-1 tvg-name="Evolution Earth" group-title="Documentary",Evolution Earth
+https://d3em2dvvzq3oj4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-23j2wegjm8ftd/85f566fb-dca9-48c9-a644-e3a6b311fcbc/4.m3u8
+
+#EXTINF:-1 tvg-name="Modern Marvels" group-title="Documentary",Modern Marvels
+https://debzvrwex1ip7.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-59uqfidguq5ol/2de29503-2ffa-4dda-a265-1364b212e293/3.m3u8
+
+#EXTINF:-1 tvg-name="Air and Space Channel" group-title="Documentary",Air and Space Channel
+https://9c8418ea80924443bf6a437d9be28be7.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_AIRandSPACE/2e8bea59-a521-48dc-8b63-54c066a140b0/5.m3u8
+
+
+#######################
+# Lifestyle / Food / Auto
+#######################
+
+#EXTINF:-1 tvg-name="Gusto TV" group-title="Lifestyle",Gusto TV
+https://fc4eff86.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9HdXN0b1RWX0hMUw/db518c4a-b41d-4e0e-be02-51d57f91ca29/4.m3u8
+
+#EXTINF:-1 tvg-name="Motorsport.tv" group-title="Auto",Motorsport.tv
+https://4d946db4.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtZ2JfTW90b3JzcG9ydHR2X0hMUw/20053ee2-b543-4a6e-a18b-37b0dbfa73c4/4.m3u8
+
+
 
