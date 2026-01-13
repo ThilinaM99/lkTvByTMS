@@ -187,8 +187,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/imaitv/chunks.m3u8
 #EXTINF:-1 tvg-name="Danger TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/HD_Television.svg/512px-HD_Television.svg.png" group-title="Entertainment",Danger TV
 https://d2e596wr2jmq0r.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-thh836k5h4fyb/2ecb63a8-fefc-455f-9268-1014d712ee9f/2.m3u8
 
-#EXTINF:-1 tvg-name="Trace Urban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/512px-Trace_Urban_logo_2010.svg.png" group-title="Music",Trace Urban
+#EXTINF:-1 tvg-name="Trace Urban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Traceurban2022.png/250px-Traceurban2022.png" group-title="Music",Trace Urban
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/d7bf3ed2-2f03-4ee7-b2e2-db3d1be52cf5/3.m3u8
+
+#EXTINF:-1 tvg-name="Trace Urban HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Traceurban2022.png/250px-Traceurban2022.png" group-title="Music",Trace Urban HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 #######################
 # Documentary / Nature
