@@ -101,7 +101,7 @@ https://live.maxtn.in/tdn/tdn/tracks-v1a1/mono.m3u8
 # Entertainment / Movies
 #######################
 
-#EXTINF:-1 tvg-name="Sony Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Sony_MAX_Logo_%282022%29.png/120px-Sony_MAX_Logo_%282022%29.png" group-title="Entertainment",Colors Super (1080p)
+#EXTINF:-1 tvg-name="Sony Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Sony_MAX_Logo_%282022%29.png/120px-Sony_MAX_Logo_%282022%29.png" group-title="Entertainment",Sony Max
 http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/SONYMAX/index.m3u8
 
 #EXTINF:-1 tvg-name="Colors Super" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/104.png" group-title="Entertainment",Colors Super (1080p)
