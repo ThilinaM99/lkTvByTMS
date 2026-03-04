@@ -34,13 +34,6 @@ https://stream.asiatvnet.com/1/live/master.m3u8
 #EXTINF:-1 tvg-name="Thamilaaram TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/Thamilaaram_Logo.png" group-title="Sri Lanka",Thamilaaram TV
 https://thamilaaramtv24-hls.secdn.net/thamilaaramtv24-chorigin/live/ThamilaaramTV/index_sess688997129.m3u8
 
-#EXTM3U
-
-#######################
-#        NEWS
-#######################
-
-#EXTM3U
 
 #######################
 #        NEWS
@@ -117,6 +110,9 @@ https://epicpictures-dreadtv-1-us.ono.wurl.tv/3000.m3u8
 
 #EXTINF:-1 tvg-name="Pluto TV Horror" group-title="Movies",Pluto TV Horror
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8
+
+#EXTINF:-1 tvg-name="AXN" group-title="Movies",AXN
+https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 
 
 #######################
