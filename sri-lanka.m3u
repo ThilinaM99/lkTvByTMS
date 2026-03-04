@@ -19,14 +19,14 @@ https://rupavahini.rumex.lk/live/OpgmxjyZGoUQXJgO/576p.m3u8
 #EXTINF:-1 tvg-name="ITN" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/004_200x200.png" group-title="Sri Lanka",ITN
 https://itn.rumex.lk/live/fgJBeMeotXpvORaE/576p.m3u8
 
-#EXTINF:-1 tvg-name="Charana TV" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/005-CHARANATV_0.jpg" group-title="Sri Lanka",Charana TV
-https://charana.rumex.lk/live/koGURgmHSgCxLVmU/576p.m3u8
-
 #EXTINF:-1 tvg-name="Siyatha TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/015.png" group-title="Sri Lanka",Siyatha TV
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv_src/index.m3u8
 
-#EXTINF:-1 tvg-name="Swarnavahini " tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/007.png" group-title="Sri Lanka",Swarnavahini HD
+#EXTINF:-1 tvg-name="Swarnavahini " tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/007.png" group-title="Sri Lanka",Swarnavahini
 https://charana-cf.rumex.lk/live/OplTHNHgJtgwGPen/576p.m3u8
+
+#EXTINF:-1 tvg-name="Charana TV" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/005-CHARANATV_0.jpg" group-title="Sri Lanka",Charana TV
+https://charana.rumex.lk/live/koGURgmHSgCxLVmU/576p.m3u8
 
 #EXTINF:-1 tvg-name="Asia TV" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop,q=95/YyvDVry73WUj4bJ6/asiatv3-A0xvpvq93JUJeKjn.png" group-title="Sri Lanka",Asia TV
 https://stream.asiatvnet.com/1/live/master.m3u8
