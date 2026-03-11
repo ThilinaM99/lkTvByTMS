@@ -22,6 +22,9 @@ https://itn.rumex.lk/live/fgJBeMeotXpvORaE/576p.m3u8
 #EXTINF:-1 tvg-name="Siyatha TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/015.png" group-title="Sri Lanka",Siyatha TV
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv_src/index.m3u8
 
+#EXTINF:-1 tvg-name="Siyatha TV Alt" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/015.png" group-title="Sri Lanka",Siyatha TV
+https://charana-cf.rumex.lk/live/OplTHNHgJtgwGPen/576p.m3u8
+
 #EXTINF:-1 tvg-name="Swarnavahini " tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/007.png" group-title="Sri Lanka",Swarnavahini
 https://charana-cf.rumex.lk/live/OplTHNHgJtgwGPen/576p.m3u8
 
