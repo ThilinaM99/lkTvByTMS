@@ -54,15 +54,8 @@ https://amg00222-amg00222c4-amgplt0019.playout.now3.amagi.tv/playlist540P.m3u8
 #EXTINF:-1 tvg-name="3. CNN International" group-title="News",3. CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-name="4. CNN (Alt)" group-title="News",4. CNN (Alt)
-https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/ecc0e0c4-bede-4615-8c54-66d0b0295cd2/1.m3u8
-
 #EXTINF:-1 tvg-name="5. NDTV 24x7" group-title="News",5. NDTV 24×7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_720p@3.m3u8
-
-#EXTINF:-1 tvg-name="6. News X World" group-title="News",6. News X World
-https://newsxott.in/hls/newsxworld.m3u8
-
 
 #######################
 #     DOCUMENTARY
@@ -83,10 +76,6 @@ http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6100/index.m3u8
 #EXTINF:-1 tvg-name="Wild Earth" group-title="Documentary",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
-#EXTINF:-1 tvg-name="Pluto TV Animals" group-title="Documentary",Pluto TV Animals
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8
-
-
 #######################
 #    ENTERTAINMENT
 #######################
@@ -100,11 +89,6 @@ https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Red Bull TV" group-title="Entertainment",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-
-#######################
-#        MOVIES
-#######################
-
 #EXTINF:-1 tvg-name="AMC+" group-title="Movies",AMC+
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/profile_0/chunklist.m3u8
 
@@ -114,58 +98,15 @@ https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="Dread TV" group-title="Movies",Dread TV
 https://epicpictures-dreadtv-1-us.ono.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-name="Pluto TV Horror" group-title="Movies",Pluto TV Horror
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8
-
-#EXTINF:-1 tvg-name="AXN" group-title="Movies",AXN
-https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
-
-
-#######################
-#        ANIME
-#######################
-
 #EXTINF:-1 tvg-name="Anime x HIDIVE" group-title="Anime",Anime x HIDIVE
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/4300.m3u8
 
-
-#######################
-#        MUSIC
-#######################
-
 #EXTINF:-1 tvg-name="Trace Urban HD" group-title="Music",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-
-
-#######################
-#        AUTO
-#######################
 
 #EXTINF:-1 tvg-name="PowerNation" group-title="Auto",PowerNation
 https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
 
 
-#######################
-#        SPORTS
-#######################
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGYssuX8G8-6ni0gxuqJ19ZWr3g_gFqZ0tdq3dQGF5vzj_BmexpD3QYg18dJI427CwVB1nGevHVbiBqhmKs9WrqNkhxqixqXaHpiLL4nVo0Hyc1pnyBfg6hVInrBOzixhZRtsqIq1ltjEPnXII_6GSj6fvCL0DMf4FTVPnUWXeBPcyY-jeqD3zENm8LNw/s700/CinemaxTV.jpg" group-title="HBO Group",Cinemaxᴴᴰ
-https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/48
-
-#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG_SE1ckoBcieOqXK-c0vcAYdtRnImtbjd0a2ULFsrIz5Zpa624mM2A7TgXPYHaF3oCVW53FwOTOqrK1gjAYUDA7wOWgFufVZ39nBhnX5ReRulWRPGvh8zjy0b1tkq_-WeKVJkgcnGsThYtRcwipLA7VGNZK27hoRU9WtBjAbEzq4N-25goGmLFLds7pIC/s700/IMC.png" group-title="Channel Film",IMC
-https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/60
-
-#EXTINF:-1 tvg-id="" tvg-name="HITS Now" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzNFRLeuKOMXD5n__qeCdlNWUyGW87aTwhzMxgG7CBF3UlBxcHU_Iqv464V9iEMULHMleQjGsqlQR6uqwNJSH2pw7qrbLkIFpDwj9upQ3AnoQD5fwXfxquBYZJfXJLPd77ZK-Juyw_bFLtNYDHZHAW36podGQflXfCFTDjEhinAgF4s_FHLUmgrCE72BBu/s700/HITS%20NOW.png" group-title="Channel Film",HITS Now
-https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/56
-
-#EXTINF:-1 tvg-id="" tvg-name="HITS Movies" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjXrwEUvG3G4NpQ1XCJdZcZTAciP6pkk1yq2GAs5mdf17RLyrV2jAywp1C1Aotj74KFy-2AU5jpqOmJ0ibzM_Y8sqKKdqK_ZRpFWJGaUWXL0iPI_gKZYJjX9eN0peqqxkHzg_dTQ5bdbUm7Q3rpIWPLpxX-5dWnmBl9QmUAZOwsQIrfPLSh1MkyZl9kzNC/s700/HITS%20MOVIES.png" group-title="Channel Film",HITS Movies
-https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/58
-
-#EXTINF:-1 tvg-id="" tvg-name="ZeeBioskop" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8rUrK181MBOwQlkMQxoPlNq4xZQqhnEQ7OtO3Dztm1dI4lSbJiVNUxUI5X74PMrf-NNJKtWpE4VFitKBSlyXMksBpjdQn2xqoSx7n1lQwgXLU5hPFT3J4XaPYD6JfZlycIHLqSiWE6SaHvfr1ZZXAc6mDlIeFxbn2Kdlwb-z6Wj05Z3F4vd0DEX6FWASM/s700/ZEE%20BIOSKOP.png" group-title="Channel Film", Zee Bioskop
-https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/69
-
-#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL-HL8z9zbvdX3i_39v0K9qKvDPVZs6Lq63rV6bVZb5GrCwwcpf3MNxSljGlzWRFkwteC4nFmL4grYi2rghYhsOs756SOtP76U9WrX1y12kR_LB0GA6AZprwuuDw9TLPdYLI7ZbUtnkxe3nWnv0yC7FHwUv_ZNMdTKj7F2Q1LBmPlRxbmGeXvkXUYpzKM5/s700/THRILL.png" group-title="Channel Film", Thrill
-https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/57
 
 
