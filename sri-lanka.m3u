@@ -37,8 +37,6 @@ https://cdn.livestreaminfo.com/live/koGURgmHSgCxLVmU/576p.m3u8
 #EXTINF:-1 tvg-name="Asia TV" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop,q=95/YyvDVry73WUj4bJ6/asiatv3-A0xvpvq93JUJeKjn.png" group-title="Sri Lanka",Asia TV
 https://stream.asiatvnet.com/1/live/master.m3u8
 
-#EXTINF:-1 tvg-name="Thamilaaram TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/Thamilaaram_Logo.png" group-title="Sri Lanka",Thamilaaram TV
-https://thamilaaramtv24-hls.secdn.net/thamilaaramtv24-chorigin/live/ThamilaaramTV/index_sess688997129.m3u8
 
 #######################
 #        NEWS
