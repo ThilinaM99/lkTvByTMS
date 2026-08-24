@@ -16,6 +16,9 @@ https://tv.hiruhost.com:1936/8012/8012/chunklist_w342303239.m3u8
 #EXTINF:-1 tvg-id="Derana.lk" tvg-name="Derana TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/006.png" group-title="Sri Lanka",Derana TV
 https://str001.peotv.lk/ndrm/live/derana/master.m3u8
 
+#EXTINF:-1 tvg-id="Derana.lk" tvg-name="Derana TV HD" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/006.png" group-title="Sri Lanka",Derana TV
+https://str001.peotv.lk/ndrm/live/derana/stream_0/index.m3u8
+
 #EXTINF:-1 tvg-name="Rupavahini" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png" group-title="Sri Lanka",Rupavahini
 https://str001.peotv.lk/ndrm/live/rupavahini/master.m3u8
 
