@@ -61,16 +61,9 @@ https://str001.peotv.lk/ndrm/live/haritha-tv/master.m3u8
 #EXTINF:-1 tvg-name="Music Plus TV " tvg-logo="https://d126jq6a1mo2v5.cloudfront.net/assets/posters/3514/source.webp" group-title="Sri Lanka",Music Plus TV
 https://str001.peotv.lk/ndrm/live/music-tv/master.m3u8
 
-#EXTINF:-1 tvg-name="Asia TV" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop,q=95/YyvDVry73WUj4bJ6/asiatv3-A0xvpvq93JUJeKjn.png" group-title="Sri Lanka",Asia TV
-https://stream.asiatvnet.com/1/live/master.m3u8
-
-
 #######################
 #        NEWS
 #######################
-
-#EXTINF:-1 tvg-name="1. Al Jazeera English" group-title="News",1. BBC World News
-https://a8c74827.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0JCQ05ld3NfSExT/1352222d-a4a5-44aa-8b68-7ddd5d87c919/4.m3u8
 
 #EXTINF:-1 tvg-name="1. Al Jazeera English" group-title="News",1. Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
@@ -87,9 +80,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_72
 #######################
 #     DOCUMENTARY
 #######################
-
-#EXTINF:-1 tvg-name="Arirang " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/330px-Arirang_logo.png" group-title="Korea",Arirang
-https://cdn.livestreaminfo.com/live/2A9KX7M1Q8D3F/576p.m3u8
 
 #EXTINF:-1#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo-2009.png" group-title=" KNOWLEDGE", Discovery HD
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=155999&extension=ts&play_token=PLFIjWELLn
@@ -109,9 +99,6 @@ https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Red Bull TV" group-title="Entertainment",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1 tvg-name="AMC+" group-title="Movies",AMC+
-https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Sony Movies" group-title="Movies",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
