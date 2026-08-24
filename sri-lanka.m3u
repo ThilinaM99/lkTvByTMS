@@ -91,17 +91,11 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_72
 #EXTINF:-1 tvg-name="Arirang " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/330px-Arirang_logo.png" group-title="Korea",Arirang
 https://cdn.livestreaminfo.com/live/2A9KX7M1Q8D3F/576p.m3u8
 
-#EXTINF:-1 tvg-name="Animal Planet HD" group-title="Documentary",Animal Planet HD
-http://d34811c9.akadatel.com/iptv/Q8E3W9E5N8M6GF/218/index.m3u8
+#EXTINF:-1#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo-2009.png" group-title=" KNOWLEDGE", Discovery HD
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=155999&extension=ts&play_token=PLFIjWELLn
 
-#EXTINF:-1 tvg-id="NationalGeographic.us@HDEast" tvg-name="National Geographic HD" group-title="Documentary",National Geographic HD
-https://tvpass.org/live/NationalGeographicEast/hd
-
-#EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast" tvg-name="National Geographic Wild HD" group-title="Documentary",National Geographic Wild HD
-https://tvpass.org/live/NationalGeographicWildEast/hd
-
-#EXTINF:-1 tvg-name="BBC Earth" group-title="Documentary",BBC Earth
-http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6100/index.m3u8
+#EXTINF:-1#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Nat_Geo_Wild/Nat_Geo_Wild-Logo.wine.png" group-title=" KNOWLEDGE", NET GEO WILD  HD
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=155989&extension=ts&play_token=9F6Vo5tyh7
 
 #EXTINF:-1 tvg-name="Wild Earth" group-title="Documentary",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
@@ -109,9 +103,6 @@ https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #######################
 #    ENTERTAINMENT
 #######################
-
-#EXTINF:-1 tvg-name="Haunt TV" group-title="Entertainment",Haunt TV
-https://amg01446-blueantmediacan-haunttvaus-samsungnz-xo5xf.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Mystery TV" group-title="Entertainment",Mystery TV
 https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
@@ -284,6 +275,12 @@ https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_o
 
 #EXTINF:-1 tvg-id="KidsTV.id" tvg-name="Kids TV" tvg-logo="https://i.imgur.com/B5YiUIP.png" tvg-country="ID" group-title="Indonesian",Kids TV
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+
+#EXTINF:-1#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png" group-title="Wrestling SPORTS", WWE HD
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=45462&extension=ts&play_token=8qZjzM8hmC
+
+#EXTINF:-1#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="Wrestling SPORTS", UFC HD
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1395687&extension=ts&play_token=uEZC59AFIY
 
 
 
