@@ -7,7 +7,7 @@ https://str001.peotv.lk/ndrm/live/sirasa/master.m3u8
 #EXTINF:-1 tvg-name="Hiru TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/011.png" tvg-country="LK" group-title="01 - Sri Lanka | General",Hiru TV
 https://str001.peotv.lk/ndrm/live/hiru/master.m3u8
 
-#EXTINF:-1 tvg-name="Hiru TV V2" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/011.png" tvg-country="LK" group-title="01 - Sri Lanka | General",Hiru TV ALT
+#EXTINF:-1 tvg-name="Hiru TV V2" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/011.png" tvg-country="LK" group-title="01 - Sri Lanka | General",Hiru TV V2
 https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Derana.lk" tvg-name="Derana TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/006.png" tvg-country="LK" group-title="01 - Sri Lanka | General",Derana TV
@@ -19,7 +19,7 @@ https://str001.peotv.lk/ndrm/live/rupavahini/master.m3u8
 #EXTINF:-1 tvg-name="ITN" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/004_200x200.png" tvg-country="LK" group-title="01 - Sri Lanka | General",ITN
 https://str001.peotv.lk/ndrm/live/itn/master.m3u8
 
-#EXTINF:-1 tvg-name="ITN V2" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/004_200x200.png" tvg-country="LK" group-title="01 - Sri Lanka | General",ITN
+#EXTINF:-1 tvg-name="ITN V2" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/004_200x200.png" tvg-country="LK" group-title="01 - Sri Lanka | General",ITN V2
 https://hls-itn-livepush.akamaized.net/live_cdn/nsiPyyYPqaaCfd/em0l9G8dNuBQsYh35/tracks-v1a1/rewind-3600.m3u8
 
 #EXTINF:-1 tvg-name="Swarnavahini" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/007.png" tvg-country="LK" group-title="01 - Sri Lanka | General",Swarnavahini
@@ -28,14 +28,20 @@ https://str001.peotv.lk/ndrm/live/swarnawahini/master.m3u8
 #EXTINF:-1 tvg-name="Siyatha TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/015.png" tvg-country="LK" group-title="01 - Sri Lanka | General",Siyatha TV
 https://str001.peotv.lk/ndrm/live/siyatha/master.m3u8
 
-#EXTINF:-1 tvg-name="Siyatha TV V2" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/015.png" tvg-country="LK" group-title="01 - Sri Lanka | General",Siyatha TV ALT
+#EXTINF:-1 tvg-name="Siyatha TV V2" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/015.png" tvg-country="LK" group-title="01 - Sri Lanka | General",Siyatha TV V2
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv_high/index.m3u8
+
+#EXTINF:-1 tvg-name="Jaya TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/4/Jayatv.png" tvg-country="LK" group-title="01 - Sri Lanka | General",Jaya TV
+https://live.jayatv.lk/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-name="Supreme TV" tvg-logo="https://d126jq6a1mo2v5.cloudfront.net/assets/posters/3531/source.webp" tvg-country="LK" group-title="01 - Sri Lanka | General",Supreme TV
 https://str001.peotv.lk/ndrm/live/tv-supreme/master.m3u8
 
 #EXTINF:-1 tvg-name="Shakthi TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/009.png" tvg-country="LK" group-title="01 - Sri Lanka | General",Shakthi TV
 https://str001.peotv.lk/ndrm/live/shakthi/master.m3u8
+
+#EXTINF:-1 tvg-name="IMAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMJDoczXuzfYlc69clfHzqf4RdtsXBCII48v4FsEuGhA&s=10" tvg-country="LK" group-title="01 - Sri Lanka | General",IMAI TV
+https://live20.bozztv.com/akamaissh101/ssh101/imaitv/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Vasantham TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/005.png" tvg-country="LK" group-title="01 - Sri Lanka | General",Vasantham TV
 https://str001.peotv.lk/ndrm/live/vasantham/master.m3u8
