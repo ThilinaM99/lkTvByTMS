@@ -26,10 +26,10 @@ https://hls-itn-livepush.akamaized.net/live_cdn/nsiPyyYPqaaCfd/em0l9G8dNuBQsYh35
 https://str001.peotv.lk/ndrm/live/swarnawahini/master.m3u8
 
 #EXTINF:-1 tvg-name="Siyatha TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/015.png" tvg-country="LK" group-title="01 - Sri Lanka | General",Siyatha TV
-https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv_src/index.m3u8
+https://str001.peotv.lk/ndrm/live/siyatha/master.m3u8
 
 #EXTINF:-1 tvg-name="Siyatha TV V2" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/015.png" tvg-country="LK" group-title="01 - Sri Lanka | General",Siyatha TV ALT
-https://str001.peotv.lk/ndrm/live/siyatha/master.m3u8
+https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv_high/index.m3u8
 
 #EXTINF:-1 tvg-name="Supreme TV" tvg-logo="https://d126jq6a1mo2v5.cloudfront.net/assets/posters/3531/source.webp" tvg-country="LK" group-title="01 - Sri Lanka | General",Supreme TV
 https://str001.peotv.lk/ndrm/live/tv-supreme/master.m3u8
