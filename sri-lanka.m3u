@@ -81,9 +81,6 @@ https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://i.imgur.com/8MRNFb9.png" tvg-country="DE" group-title="News",DW
 https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" tvg-country="JP" group-title="News",NHK World-Japan
-https://cdn-7.pishow.tv/live/455/master.m3u8
-
 #EXTINF:-1 tvg-name="Euronews English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" tvg-country="FR" group-title="News",Euronews English
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 
@@ -134,9 +131,6 @@ http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=155989&ext
 #EXTINF:-1 tvg-name="Wild Earth" group-title="Documentary",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
-#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="US" group-title="Documentary",National Geographic
-https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
-
 #EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-country="UK" group-title="Documentary",BBC Earth
 https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 
@@ -150,12 +144,6 @@ https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Red Bull TV" group-title="Entertainment",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoSVG.svg" tvg-country="US" group-title="Entertainment",Comedy Central
-https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
-
-#EXTINF:-1 tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoSVG.svg" tvg-country="US" group-title="Entertainment",Comedy Central Pluto TV
-https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
 
 #EXTINF:-1 tvg-name="IFC" tvg-logo="https://i.imgur.com/bQdkyF9.png" tvg-country="US" group-title="Entertainment",IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
@@ -188,15 +176,6 @@ https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3
 
 #EXTINF:-1 tvg-name="ESPN8: The Ocho" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png" tvg-country="US" group-title="Sports",ESPN8: The Ocho
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
-
-#EXTINF:-1 tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" tvg-country="US" group-title="Sports",ESPN Deportes
-http://168.228.44.241:9998/play/a0dz/index.m3u8
-
-#EXTINF:-1 tvg-name="Fox Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" tvg-country="US" group-title="Sports",Fox Sports 1
-https://tvsen7.aynascope.net/foxsports1/index.m3u8
-
-#EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="https://i.imgur.com/LHtxKI8.png" tvg-country="US" group-title="Sports",Fox Sports 2
-https://tvsen7.aynascope.net/foxsports2/index.m3u8
 
 #EXTINF:-1 tvg-name="NBC Sports NOW" tvg-logo="https://i.imgur.com/EzNf2Yx.png" tvg-country="US" group-title="Sports",NBC Sports NOW
 https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
@@ -239,9 +218,6 @@ http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1395687&ex
 #EXTINF:-1 tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-country="US" group-title="Kids",Disney Junior
 http://212.5.144.156/disneyjr/index.m3u8
 
-#EXTINF:-1 tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" tvg-country="US" group-title="Kids",Disney XD
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-
 #EXTINF:-1 tvg-name="PBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg" tvg-country="US" group-title="Kids",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 
@@ -259,9 +235,6 @@ https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
 #EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://i.imgur.com/QnU70NI.png" tvg-country="ID" group-title="Indonesian",Metro TV
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/CNBC_Indonesia_2025.svg" tvg-country="ID" group-title="Indonesian",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Garuda TV" tvg-logo="https://i.imgur.com/sXsAcZ3.png" tvg-country="ID" group-title="Indonesian",Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
@@ -273,6 +246,3 @@ http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RRI Net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/960px-RRI_NET_2023.svg.png" tvg-country="ID" group-title="Indonesian",RRI Net
 https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
-
-#EXTINF:-1 tvg-name="Kids TV" tvg-logo="https://i.imgur.com/B5YiUIP.png" tvg-country="ID" group-title="Indonesian",Kids TV
-http://origin5.mediacdn.ru/live/kidstv/index.m3u8
