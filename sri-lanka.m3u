@@ -19,9 +19,6 @@ https://str001.peotv.lk/ndrm/live/rupavahini/master.m3u8
 #EXTINF:-1 tvg-name="ITN" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/004_200x200.png" tvg-country="LK" group-title="01 - Sri Lanka | General",ITN
 https://str001.peotv.lk/ndrm/live/itn/master.m3u8
 
-#EXTINF:-1 tvg-name="ITN V2" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/004_200x200.png" tvg-country="LK" group-title="01 - Sri Lanka | General",ITN V2
-https://hls-itn-livepush.akamaized.net/live_cdn/nsiPyyYPqaaCfd/em0l9G8dNuBQsYh35/tracks-v1a1/rewind-3600.m3u8
-
 #EXTINF:-1 tvg-name="Swarnavahini" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/007.png" tvg-country="LK" group-title="01 - Sri Lanka | General",Swarnavahini
 https://str001.peotv.lk/ndrm/live/swarnawahini/master.m3u8
 
