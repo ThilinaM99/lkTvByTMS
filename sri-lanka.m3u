@@ -1,67 +1,87 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Sirasa TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/008.png" group-title="Sri Lanka | General",Sirasa TV
+#######################
+# Sri Lanka Channels
+#######################
+
+#EXTINF:-1 tvg-name="Sirasa TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/008.png" group-title="Sri Lanka",Sirasa TV
 https://str001.peotv.lk/ndrm/live/sirasa/master.m3u8
 
-#EXTINF:-1 tvg-name="Hiru TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/011.png" group-title="Sri Lanka | General",Hiru TV
+#EXTINF:-1 tvg-name="Hiru TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/011.png" group-title="Sri Lanka",Hiru TV
 https://str001.peotv.lk/ndrm/live/hiru/master.m3u8
 
-#EXTINF:-1 tvg-name="Hiru TV V2" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/011.png" group-title="Sri Lanka | General",Hiru TV V2
+#EXTINF:-1 tvg-name="Hiru TV V2" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/011.png" group-title="Sri Lanka",Hiru TV V2
 https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Derana.lk" tvg-name="Derana TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/006.png" group-title="Sri Lanka | General",Derana TV
+#EXTINF:-1 tvg-id="Derana.lk" tvg-name="Derana TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/006.png" group-title="Sri Lanka",Derana TV
 https://str001.peotv.lk/ndrm/live/derana/master.m3u8
 
-#EXTINF:-1 tvg-name="Rupavahini" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png" group-title="Sri Lanka | General",Rupavahini
+#EXTINF:-1 tvg-name="Rupavahini" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png" group-title="Sri Lanka",Rupavahini
 https://str001.peotv.lk/ndrm/live/rupavahini/master.m3u8
 
-#EXTINF:-1 tvg-name="ITN" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/004_200x200.png" group-title="Sri Lanka | General",ITN
+#EXTINF:-1 tvg-name="ITN" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/004_200x200.png" group-title="Sri Lanka",ITN
 https://str001.peotv.lk/ndrm/live/itn/master.m3u8
 
-#EXTINF:-1 tvg-name="ITN V2" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/004_200x200.png" group-title="Sri Lanka | General",ITN V2
+#EXTINF:-1 tvg-name="ITN V2" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/004_200x200.png" group-title="Sri Lanka",ITN V2
 https://hls-itn-livepush.akamaized.net/live_cdn/nsiPyyYPqaaCfd/em0l9G8dNuBQsYh35/tracks-v1a1/rewind-3600.m3u8
 
-#EXTINF:-1 tvg-name="Swarnavahini" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/007.png" group-title="Sri Lanka | General",Swarnavahini
+#EXTINF:-1 tvg-name="Swarnavahini" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/007.png" group-title="Sri Lanka",Swarnavahini
 https://str001.peotv.lk/ndrm/live/swarnawahini/master.m3u8
 
-#EXTINF:-1 tvg-name="Siyatha TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/015.png" group-title="Sri Lanka | General",Siyatha TV
+#EXTINF:-1 tvg-name="Siyatha TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/015.png" group-title="Sri Lanka",Siyatha TV
 https://str001.peotv.lk/ndrm/live/siyatha/master.m3u8
 
-#EXTINF:-1 tvg-name="Siyatha TV V2" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/015.png" group-title="Sri Lanka | General",Siyatha TV V2
+#EXTINF:-1 tvg-name="Siyatha TV V2" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/015.png" group-title="Sri Lanka",Siyatha TV V2
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv_high/index.m3u8
 
-#EXTINF:-1 tvg-name="Jaya TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/4/Jayatv.png" group-title="Sri Lanka | General",Jaya TV
+#EXTINF:-1 tvg-name="Jaya TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/4/Jayatv.png" group-title="Sri Lanka",Jaya TV
 https://live.jayatv.lk/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-name="Supreme TV" tvg-logo="https://d126jq6a1mo2v5.cloudfront.net/assets/posters/3531/source.webp" group-title="Sri Lanka | General",Supreme TV
+#EXTINF:-1 tvg-name="Supreme TV" tvg-logo="https://d126jq6a1mo2v5.cloudfront.net/assets/posters/3531/source.webp" group-title="Sri Lanka",Supreme TV
 https://str001.peotv.lk/ndrm/live/tv-supreme/master.m3u8
 
-#EXTINF:-1 tvg-name="Shakthi TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/009.png" group-title="Sri Lanka | General",Shakthi TV
+#EXTINF:-1 tvg-name="Shakthi TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/009.png" group-title="Sri Lanka",Shakthi TV
 https://str001.peotv.lk/ndrm/live/shakthi/master.m3u8
 
-#EXTINF:-1 tvg-name="IMAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMJDoczXuzfYlc69clfHzqf4RdtsXBCII48v4FsEuGhA&s=10" group-title="Sri Lanka | General",IMAI TV
+#EXTINF:-1 tvg-name="IMAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMJDoczXuzfYlc69clfHzqf4RdtsXBCII48v4FsEuGhA&s=10" group-title="Sri Lanka",IMAI TV
 https://live20.bozztv.com/akamaissh101/ssh101/imaitv/chunks.m3u8
 
-#EXTINF:-1 tvg-name="Vasantham TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/005.png" group-title="Sri Lanka | General",Vasantham TV
+#EXTINF:-1 tvg-name="Vasantham TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/005.png" group-title="Sri Lanka",Vasantham TV
 https://str001.peotv.lk/ndrm/live/vasantham/master.m3u8
 
-#EXTINF:-1 tvg-name="Charana TV" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/005-CHARANATV_0.jpg" group-title="Sri Lanka | General",Charana TV
+#EXTINF:-1 tvg-name="Charana TV" tvg-logo="https://www.slt.lk/sites/default/files/channel_images/005-CHARANATV_0.jpg" group-title="Sri Lanka",Charana TV
 https://str001.peotv.lk/ndrm/live/charana/master.m3u8
 
-#EXTINF:-1 tvg-name="Haritha TV" tvg-logo="https://d126jq6a1mo2v5.cloudfront.net/assets/posters/3493/source.webp" group-title="Sri Lanka | General",Haritha TV
+#EXTINF:-1 tvg-name="Haritha TV" tvg-logo="https://d126jq6a1mo2v5.cloudfront.net/assets/posters/3493/source.webp" group-title="Sri Lanka",Haritha TV
 https://str001.peotv.lk/ndrm/live/haritha-tv/master.m3u8
 
-#EXTINF:-1 tvg-name="Ada Derana 24" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/014.png" group-title="Sri Lanka | News",Ada Derana 24
+#######################
+# Sri Lanka - News
+#######################
+
+#EXTINF:-1 tvg-name="Ada Derana 24" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/014.png" group-title="Sri Lanka - News",Ada Derana 24
 https://str001.peotv.lk/ndrm/live/ada-derana-24/master.m3u8
 
-#EXTINF:-1 tvg-name="The Buddhist" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/026.png" group-title="Sri Lanka | Religion",The Buddhist
+#######################
+# Sri Lanka - Religion
+#######################
+
+#EXTINF:-1 tvg-name="The Buddhist" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/026.png" group-title="Sri Lanka - Religion",The Buddhist
 https://str001.peotv.lk/ndrm/live/buddhist/master.m3u8
 
-#EXTINF:-1 tvg-name="Shraddha TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/027.png" group-title="Sri Lanka | Religion",Shraddha TV
+#EXTINF:-1 tvg-name="Shraddha TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/027.png" group-title="Sri Lanka - Religion",Shraddha TV
 https://str001.peotv.lk/ndrm/live/shraddha/master.m3u8
 
-#EXTINF:-1 tvg-name="Music Plus TV" tvg-logo="https://d126jq6a1mo2v5.cloudfront.net/assets/posters/3514/source.webp" group-title="Sri Lanka | Music",Music Plus TV
+#######################
+# Sri Lanka - Music
+#######################
+
+#EXTINF:-1 tvg-name="Music Plus TV" tvg-logo="https://d126jq6a1mo2v5.cloudfront.net/assets/posters/3514/source.webp" group-title="Sri Lanka - Music",Music Plus TV
 https://str001.peotv.lk/ndrm/live/music-tv/master.m3u8
+
+#######################
+# International News
+#######################
 
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="International News",Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
@@ -171,6 +191,10 @@ http://23.239.31.26:8989/bbcamerica/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.id" tvg-name="Al Jazeera" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQgp57sUQGy-4RGWG6IFdyRq63LMpVoAV14YQMSGZCmJy8G5rqoi8Zu7pOP9ykmumaGD4LZNthvLLrEZBCtUgHuVf_gNPbDplBqrt8G7242Fse8xv8SRGNK93fFcTCqwUQLmCq9Oh_6-zc0pPByLm60x367yK96fgWPy2yd0V4dgTuo8yI8_iLHDvmWgg/s700/AlJazeera.png" group-title="International News",Al Jazeera
 https://iptv.lancartech.co.id:443/Widya002/Widya882026/145
 
+#######################
+# Sports
+#######################
+
 #EXTINF:-1 tvg-name="ESPN8: The Ocho" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png" group-title="Sports",ESPN8: The Ocho
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 
@@ -228,14 +252,22 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Sports",Outdoor Channel (1080p)
 https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Fight Network" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="Sports | Combat",Fight Network
+#######################
+# Sports - Combat
+#######################
+
+#EXTINF:-1 tvg-name="Fight Network" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="Sports - Combat",Fight Network
 https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="WWE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png" group-title="Sports | Combat",WWE HD
+#EXTINF:-1 tvg-name="WWE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png" group-title="Sports - Combat",WWE HD
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=45462&extension=ts&play_token=8qZjzM8hmC
 
-#EXTINF:-1 tvg-name="UFC HD" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="Sports | Combat",UFC HD
+#EXTINF:-1 tvg-name="UFC HD" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="Sports - Combat",UFC HD
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1395687&extension=ts&play_token=uEZC59AFIY
+
+#######################
+# Documentary & Nature
+#######################
 
 #EXTINF:-1 tvg-name="Discovery HD" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo-2009.png" group-title="Documentary & Nature",Discovery HD
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=155999&extension=ts&play_token=PLFIjWELLn
@@ -255,11 +287,19 @@ http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" group-title="Documentary & Nature",BBC Earth (720p)
 https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 
+#######################
+# Movies
+#######################
+
 #EXTINF:-1 tvg-name="Sony Movies" group-title="Movies",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-name="Dread TV" group-title="Movies",Dread TV
 https://epicpictures-dreadtv-1-us.ono.wurl.tv/3000.m3u8
+
+#######################
+# Entertainment
+#######################
 
 #EXTINF:-1 tvg-name="Mystery TV" group-title="Entertainment",Mystery TV
 https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
@@ -282,11 +322,19 @@ https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="TheCountryNetwork.us" tvg-name="The Country Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="Entertainment",The Country Network (720p)
 https://a-cdn.klowdtv.com/live2/countrytv_720p/playlist.m3u8
 
+#######################
+# Comedy
+#######################
+
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoSVG.svg" group-title="Comedy",Comedy Central
 https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoSVG.svg" group-title="Comedy",Comedy Central Pluto TV
 https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
+
+#######################
+# Kids & Family
+#######################
 
 #EXTINF:-1 tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Kids & Family",Disney Junior
 http://212.5.144.156/disneyjr/index.m3u8
@@ -321,60 +369,79 @@ https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKids.us" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoSVG.svg" group-title="Kids & Family",Pluto TV Kids
 https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
 
+#######################
+# Anime
+#######################
+
 #EXTINF:-1 tvg-name="Anime x HIDIVE" group-title="Anime",Anime x HIDIVE
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/4300.m3u8
+
+#######################
+# International Music
+#######################
 
 #EXTINF:-1 tvg-name="Trace Urban HD" group-title="International Music",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
+#######################
+# Automotive & Lifestyle
+#######################
+
 #EXTINF:-1 tvg-name="PowerNation" group-title="Automotive & Lifestyle",PowerNation
 https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
+
+#######################
+# Shopping
+#######################
 
 #EXTINF:-1 tvg-name="QVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png" group-title="Shopping",QVC
 https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="Indonesia | TV",Metro TV
+#######################
+# Indonesia - TV
+#######################
+
+#EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="Indonesia - TV",Metro TV
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Garuda TV" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="Indonesia | TV",Garuda TV
+#EXTINF:-1 tvg-name="Garuda TV" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="Indonesia - TV",Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
-#EXTINF:-1 tvg-name="Magna Channel" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="Indonesia | TV",Magna Channel
+#EXTINF:-1 tvg-name="Magna Channel" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="Indonesia - TV",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Jawa Pos TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png" group-title="Indonesia | TV",Jawa Pos TV
+#EXTINF:-1 tvg-name="Jawa Pos TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png" group-title="Indonesia - TV",Jawa Pos TV
 http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RRI Net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/960px-RRI_NET_2023.svg.png" group-title="Indonesia | TV",RRI Net
+#EXTINF:-1 tvg-name="RRI Net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/960px-RRI_NET_2023.svg.png" group-title="Indonesia - TV",RRI Net
 https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="Indonesia | TV",Metro TV
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="Indonesia - TV",Metro TV
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-name="Nusantara TV" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="Indonesia | TV",Nusantara TV (1080p)
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-name="Nusantara TV" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="Indonesia - TV",Nusantara TV (1080p)
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GarudaTV.id" tvg-name="Garuda TV" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="Indonesia | TV",Garuda TV (1080p)
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-name="Garuda TV" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="Indonesia - TV",Garuda TV (1080p)
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
-#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-name="Magna Channel" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="Indonesia | TV",Magna Channel (1080p)
+#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-name="Magna Channel" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="Indonesia - TV",Magna Channel (1080p)
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png" group-title="Indonesia | TV",BTV (1080p)
+#EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png" group-title="Indonesia - TV",BTV (1080p)
 https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
 
-#EXTINF:-1 tvg-id="JawaPosTV.id" tvg-name="Jawa Pos TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png" group-title="Indonesia | TV",Jawa Pos TV (720p)
+#EXTINF:-1 tvg-id="JawaPosTV.id" tvg-name="Jawa Pos TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png" group-title="Indonesia - TV",Jawa Pos TV (720p)
 http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RRINet.id" tvg-name="RRI Net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/960px-RRI_NET_2023.svg.png" group-title="Indonesia | TV",RRI Net (1080p)
+#EXTINF:-1 tvg-id="RRINet.id" tvg-name="RRI Net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/960px-RRI_NET_2023.svg.png" group-title="Indonesia - TV",RRI Net (1080p)
 https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
 
-#EXTINF:-1 tvg-id="tvri" tvg-name="TVRI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglMsjrAO4lxyPx6Adc08adwnfGQ35zHwfTy3_kTvHP8roN2Slkltbe2Li3zTLY7UegUDp-DLDsoqZPNnz2YG41pS3qYwubdC3gW1c6fwuH-yo2M7FxnKRDQwvKagWpMwYeq-8tgqsZ6VU4Z_qaRaPYuIGUBX51kzIoB0OEcBXdg-e8G2mG2YEjSg9vrj8/s750/TVRI.png" group-title="Indonesia | TV",TVRI Nasional
+#EXTINF:-1 xui-id="5575" tvg-id="tvri" tvg-name="TVRI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglMsjrAO4lxyPx6Adc08adwnfGQ35zHwfTy3_kTvHP8roN2Slkltbe2Li3zTLY7UegUDp-DLDsoqZPNnz2YG41pS3qYwubdC3gW1c6fwuH-yo2M7FxnKRDQwvKagWpMwYeq-8tgqsZ6VU4Z_qaRaPYuIGUBX51kzIoB0OEcBXdg-e8G2mG2YEjSg9vrj8/s750/TVRI.png" group-title="Indonesia - TV",TVRI Nasional
 https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcnje6RKacuj3DXUBgrd7jRrI
 
-#EXTINF:-1 tvg-name="TVRI World" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIPjAPrS6YVLgMN8kQYw5ck7IyxDoquot_sLKAU4nVWOrEL7KKumB8gI0fYTF5gm8kQkH7uS3_jg4id16pw1uYjMuIgHwHuJe9cduyZ5HsNoUuTLZUgei-zjrk-r_JpiHCKnjp7ZUmb6G1ZbHQnUL0sfe8Xm8Ly5vWUvV9rNQGG-zx3JPkiFIZXX394Fc/s750/TVRI%20World.png" group-title="Indonesia | TV",TVRI World
+#EXTINF:-1 xui-id="169" tvg-id="" tvg-name="TVRI World" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIPjAPrS6YVLgMN8kQYw5ck7IyxDoquot_sLKAU4nVWOrEL7KKumB8gI0fYTF5gm8kQkH7uS3_jg4id16pw1uYjMuIgHwHuJe9cduyZ5HsNoUuTLZUgei-zjrk-r_JpiHCKnjp7ZUmb6G1ZbHQnUL0sfe8Xm8Ly5vWUvV9rNQGG-zx3JPkiFIZXX394Fc/s750/TVRI%20World.png" group-title="Indonesia - TV",TVRI World
 https://xcpro.biz.id:443/play/dYV3B3XWN54ZV-b1bZJcntgIfYUv8Xool-hI3eud_mk
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjduX8L_SRPAcV1eXOFU7RNuBk3ab7eR0F32_RP8_ca7vlLfUQ2gBbkpbv2mdX-0z3QH2f_L3HoF6HYLBLNl1KleHVlmEhqm8CxBVrd16pVv-rWk2J17y1hjiUu8ZDlwH0h_n_tB4oLNpkaJz5Vn7Wwf7CGdbKL7DUleQ5aq1j2728mwKwK4a1YUy9DLsA/s700/StaraTV.png" group-title="Indonesia | TV",Stara TV
+#EXTINF:-1 group-title="Indonesia - TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjduX8L_SRPAcV1eXOFU7RNuBk3ab7eR0F32_RP8_ca7vlLfUQ2gBbkpbv2mdX-0z3QH2f_L3HoF6HYLBLNl1KleHVlmEhqm8CxBVrd16pVv-rWk2J17y1hjiUu8ZDlwH0h_n_tB4oLNpkaJz5Vn7Wwf7CGdbKL7DUleQ5aq1j2728mwKwK4a1YUy9DLsA/s700/StaraTV.png",Stara TV
 https://stream.staratv.id/hls/0/stream.m3u8
-
