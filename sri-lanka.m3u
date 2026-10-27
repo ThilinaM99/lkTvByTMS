@@ -22,9 +22,6 @@ https://str001.peotv.lk/ndrm/live/rupavahini/master.m3u8
 #EXTINF:-1 tvg-name="ITN" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/004_200x200.png" group-title="Sri Lanka",ITN
 https://str001.peotv.lk/ndrm/live/itn/master.m3u8
 
-#EXTINF:-1 tvg-name="ITN V2" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/004_200x200.png" group-title="Sri Lanka",ITN V2
-https://hls-itn-livepush.akamaized.net/live_cdn/nsiPyyYPqaaCfd/em0l9G8dNuBQsYh35/tracks-v1a1/rewind-3600.m3u8
-
 #EXTINF:-1 tvg-name="Swarnavahini" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/007.png" group-title="Sri Lanka",Swarnavahini
 https://str001.peotv.lk/ndrm/live/swarnawahini/master.m3u8
 
@@ -55,28 +52,16 @@ https://str001.peotv.lk/ndrm/live/charana/master.m3u8
 #EXTINF:-1 tvg-name="Haritha TV" tvg-logo="https://d126jq6a1mo2v5.cloudfront.net/assets/posters/3493/source.webp" group-title="Sri Lanka",Haritha TV
 https://str001.peotv.lk/ndrm/live/haritha-tv/master.m3u8
 
-#######################
-# Sri Lanka - News
-#######################
-
-#EXTINF:-1 tvg-name="Ada Derana 24" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/014.png" group-title="Sri Lanka - News",Ada Derana 24
+#EXTINF:-1 tvg-name="Ada Derana 24" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/014.png" group-title="Sri Lanka",Ada Derana 24
 https://str001.peotv.lk/ndrm/live/ada-derana-24/master.m3u8
 
-#######################
-# Sri Lanka - Religion
-#######################
-
-#EXTINF:-1 tvg-name="The Buddhist" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/026.png" group-title="Sri Lanka - Religion",The Buddhist
+#EXTINF:-1 tvg-name="The Buddhist" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/026.png" group-title="Sri Lanka",The Buddhist
 https://str001.peotv.lk/ndrm/live/buddhist/master.m3u8
 
-#EXTINF:-1 tvg-name="Shraddha TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/027.png" group-title="Sri Lanka - Religion",Shraddha TV
+#EXTINF:-1 tvg-name="Shraddha TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/027.png" group-title="Sri Lanka",Shraddha TV
 https://str001.peotv.lk/ndrm/live/shraddha/master.m3u8
 
-#######################
-# Sri Lanka - Music
-#######################
-
-#EXTINF:-1 tvg-name="Music Plus TV" tvg-logo="https://d126jq6a1mo2v5.cloudfront.net/assets/posters/3514/source.webp" group-title="Sri Lanka - Music",Music Plus TV
+#EXTINF:-1 tvg-name="Music Plus TV" tvg-logo="https://d126jq6a1mo2v5.cloudfront.net/assets/posters/3514/source.webp" group-title="Sri Lanka",Music Plus TV
 https://str001.peotv.lk/ndrm/live/music-tv/master.m3u8
 
 #######################
